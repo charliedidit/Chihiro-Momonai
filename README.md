@@ -1,18 +1,13 @@
-# Your singer name
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Chihiro Momonai
+Has an unfinished VCV voicebank and has 2 CV voicebanks. No official artwork yet.
 
 ## General information
-- Gender: test
-- Height: 111m
-- Weight: 222g
-- Age: 33
+- Gender: Male
+- Height: 165m
+- Weight: 11037g
+- Age: 15 (but it can be any age you want)
 
-## First test bank
-Test description 1
-- Type: Diffsinger
-- Languages: ru, jp
-
-## Second test bank
-Test description 2
+## Chihiro Momonai
+Chihiro Momonai
 - Type: UTAU
-- Languages: en
+- Languages: jp
